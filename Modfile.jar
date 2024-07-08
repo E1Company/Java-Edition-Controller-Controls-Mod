@@ -1,0 +1,2 @@
+ const = controls ['R2', 'L2', 'L1', 'R1', 'OPTIONS', 'SHARE']; var = controls window.addEventListener("controls") ElementById("controls") > ['LeftClick', 'Num = >', 'Num = <', 'RightClick', 'ESC', 'T',];
+alert("Hope It Works")
